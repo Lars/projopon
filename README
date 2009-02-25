@@ -1,0 +1,20 @@
+This is a fast clobered together README for project projopon
+
+The idea is to create a web based outliner that is compatible and
+capable of receiving and sending Kylom Software's Projekt exported
+OPML files. 
+
+Projekt (found at http://www.kylom.com/ ) is a project manager and
+outliner for Symbian S60 systems, that I have recently purchased for
+my E71 phone... so far it's a very nice outliner program for the S60
+but even with a "full" qwerty keyboard on my phone, it's not feasible
+to do an extended dump session onto the device itself. thus needing
+a nicer UI.
+
+I chose Web to be all "cloudy" about it. Projekt is capable of exporting
+and importing part (not all) of it's data in XML, to be more precise, OPML
+format.
+
+Projopon (PROJekt OPml ONline) is then designed to be usseable as a web outliner
+that can receive (via email at first) and export (the same) projekt compatible
+OPML files. Letting me "sync" via email projekt to the web.
